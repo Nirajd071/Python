@@ -1,0 +1,1 @@
+print(type(12.5),type(12),type("Niraj"))
